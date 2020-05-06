@@ -1,0 +1,1430 @@
+[2020-04-28 11:06:58,549-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:06:58,615-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:06:58,616-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:06:58,616-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:10:46,660-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:10:46,714-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:10:46,715-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:10:46,715-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:12:16,687-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:12:16,724-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:12:16,725-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:12:16,725-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:13:10,136-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:13:10,217-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:13:10,217-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:13:10,218-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:14:21,591-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:14:21,632-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:14:21,632-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:14:21,633-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:15:14,086-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:15:14,145-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:15:14,146-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:15:14,147-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:15:28,517-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:15:28,619-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:15:28,620-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:15:28,620-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:17:43,689-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:17:43,793-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:17:43,795-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:17:43,798-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:21:21,250-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:21:21,282-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:21:21,283-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:21:21,283-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:22:33,467-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:22:33,511-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 11:22:33,511-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 11:22:33,512-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:25:42,566-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:25:42,599-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:25:42,599-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:25:42,600-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:27:06,007-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:27:06,044-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 11:27:06,054-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 11:27:06,055-logger.py]-INFO:登录是否成功：False
+[2020-04-28 11:29:35,575-logger.py]-INFO:---------开始测试----------
+[2020-04-28 11:29:35,608-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:29:35,609-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 11:29:35,610-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:37:35,623-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:37:35,707-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:37:35,710-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:37:35,712-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:38:27,177-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:38:27,209-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:38:27,209-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:38:27,210-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:40:04,758-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:40:04,818-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:40:04,818-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:40:04,820-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:40:49,195-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:40:49,269-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:40:49,271-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:40:49,273-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:41:13,928-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:41:13,962-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 16:41:13,963-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 16:41:13,963-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:43:37,935-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:43:37,970-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:37,972-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:37,973-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:43:37,975-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:43:38,009-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,010-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,010-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:43:38,011-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:43:38,044-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,045-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,046-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:43:38,047-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:43:38,079-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,080-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 16:43:38,080-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:43:38,082-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:43:38,113-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 16:43:38,114-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 16:43:38,115-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:46:23,444-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:46:23,476-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:46:23,476-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:46:23,477-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:47:39,807-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:47:39,845-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:47:39,846-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:47:39,846-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:52:01,897-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:52:01,929-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:52:01,930-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:52:01,930-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:52:42,430-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:52:42,462-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:52:42,463-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:52:42,463-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:53:27,034-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:53:27,065-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:53:27,065-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 16:53:27,066-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:54:03,210-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:54:03,249-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:54:03,249-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:54:03,250-logger.py]-INFO:登录是否成功：False
+[2020-04-28 16:55:40,081-logger.py]-INFO:---------开始测试----------
+[2020-04-28 16:55:40,159-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:55:40,160-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 16:55:40,161-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:09:40,537-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:09:40,588-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:09:40,590-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:09:40,592-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:10:02,353-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:10:02,433-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:10:02,435-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:10:02,436-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:10:43,946-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:10:43,984-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:10:43,986-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:10:43,988-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:15:37,842-logger.py]-INFO:手机号码:15538005100
+[2020-04-28 17:15:38,039-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:15:38,069-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:15:38,070-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:15:38,070-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,492-logger.py]-INFO:手机号码:13294068753
+[2020-04-28 17:21:52,640-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,670-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,670-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,671-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,671-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,699-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,700-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,701-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,702-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,731-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,732-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,733-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,733-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,765-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,766-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:52,766-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,767-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,799-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,799-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,800-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,800-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,832-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,832-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,833-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,833-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,862-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,862-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,863-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,863-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,893-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,894-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:52,895-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,895-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,925-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,925-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,926-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,926-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,958-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,959-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,959-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,960-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:52,990-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,991-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:21:52,991-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:52,992-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,024-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:53,024-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:53,025-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:53,025-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,055-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:53,056-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:21:53,057-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:53,057-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,085-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,086-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,086-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:53,087-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,116-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,116-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,117-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:53,117-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,148-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,149-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,150-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:21:53,150-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:21:53,178-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,178-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:21:53,179-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:07,991-logger.py]-INFO:手机号码:18783753073
+[2020-04-28 17:24:08,118-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,151-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,152-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,153-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,153-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,183-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,183-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,184-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,184-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,213-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,214-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,214-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,215-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,244-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,245-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,245-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,246-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,276-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,276-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,277-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,278-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,308-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,309-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,309-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,310-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,340-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,341-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,341-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,342-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,370-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,371-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,372-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,372-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,402-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,402-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,403-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,404-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,436-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,436-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,437-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,438-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,467-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,467-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:24:08,468-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,469-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,500-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,500-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,501-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,502-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,530-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,531-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:24:08,531-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,532-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,562-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,563-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,563-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,564-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,596-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,597-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,598-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,599-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,626-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,627-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,627-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:24:08,628-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:24:08,655-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,656-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:24:08,657-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:04,747-logger.py]-INFO:手机号码:15071981551
+[2020-04-28 17:25:04,971-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,000-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,001-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,001-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,040-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,068-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,069-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,070-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,110-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,142-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,143-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,144-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,188-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,218-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,219-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,220-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,258-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,290-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,290-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:05,291-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,292-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,321-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,322-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,322-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,323-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,351-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,352-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,352-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,353-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,381-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,382-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,383-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,383-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,411-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,412-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,413-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,413-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,445-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,446-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,447-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,448-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,475-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,476-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,476-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,477-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,517-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,518-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,518-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,519-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,548-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,549-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,549-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,550-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,577-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,578-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,579-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,579-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,605-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,605-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,606-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,606-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,635-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,636-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:05,636-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,637-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,663-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,664-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,664-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,665-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,692-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,692-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:05,693-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,694-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,726-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,727-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,727-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,728-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,757-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,758-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,758-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,759-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,788-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,789-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,789-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:05,790-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:05,819-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,820-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:05,820-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:46,837-logger.py]-INFO:手机号码:13474940651
+[2020-04-28 17:25:47,050-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,087-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,088-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,089-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,135-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,167-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,168-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,169-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,210-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,239-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,240-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,241-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,282-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,312-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,312-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,313-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,353-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,383-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,384-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:25:47,384-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,385-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,413-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,413-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,414-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,414-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,443-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,444-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,444-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,445-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,473-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,474-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,475-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,475-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,506-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,506-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,507-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,507-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,538-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,539-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,539-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,540-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,571-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,571-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,572-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,572-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,603-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,604-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,604-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,605-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,633-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,634-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,634-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,635-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,662-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,663-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,663-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,664-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,694-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,694-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,695-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,695-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,726-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,727-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:25:47,727-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,728-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,755-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,756-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,756-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,757-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,784-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,784-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:25:47,785-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,786-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,817-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,819-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,820-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,821-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,853-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,854-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,855-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,856-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,889-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,890-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,891-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:25:47,893-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:25:47,927-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,929-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:25:47,929-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:18,700-logger.py]-INFO:手机号码:1308036234
+[2020-04-28 17:27:19,064-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,099-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,100-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,102-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,104-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,137-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,139-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,141-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,143-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,177-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,179-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,181-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,183-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,218-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,219-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,220-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,222-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,253-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,254-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,255-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,256-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,290-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,291-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,292-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,293-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,324-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,325-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,326-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,327-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,359-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,360-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,361-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,362-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,392-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,393-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,395-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,396-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,427-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,428-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,429-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,430-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,457-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,458-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:27:19,458-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,459-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,486-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,486-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,487-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,488-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,514-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,514-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:27:19,515-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,515-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,546-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,547-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,548-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,549-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,579-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,580-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,580-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,581-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,611-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,612-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,613-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:27:19,614-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:27:19,645-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,645-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:27:19,646-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,248-logger.py]-INFO:手机号码:13540615564
+[2020-04-28 17:31:32,491-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,527-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,528-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,530-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,575-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,611-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,613-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,614-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,663-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,700-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,702-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,704-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,750-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,782-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,783-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,785-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,824-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,856-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,857-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:31:32,858-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,860-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,894-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:32,895-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:32,897-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,898-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,930-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,930-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,931-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,932-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,961-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,961-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,963-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,964-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:32,996-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,996-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:32,997-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:32,998-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,029-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,030-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,030-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,031-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,059-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,060-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,060-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,061-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,087-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,088-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,088-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,089-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,119-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,120-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,121-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,121-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,151-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,152-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,152-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,153-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,181-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,182-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,182-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,184-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,212-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,212-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:31:33,213-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,214-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,241-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:33,242-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:33,242-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,243-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,271-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:33,272-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:31:33,272-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,273-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,302-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,303-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,303-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,304-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,334-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,335-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,335-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,336-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,365-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,367-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,368-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:31:33,369-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:31:33,400-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,402-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:31:33,402-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:35:54,015-logger.py]-INFO:手机号码:1305728685
+[2020-04-28 17:38:34,233-logger.py]-INFO:手机号码:13674042074
+[2020-04-28 17:38:34,328-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:38:34,549-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': '1be086100ebf4761abe58aadb88cb904', 'user': {'id': 1899, 'melotUserId': None, 'mobile': '13674042074', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:38:34,550-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': '1be086100ebf4761abe58aadb88cb904', 'user': {'id': 1899, 'melotUserId': None, 'mobile': '13674042074', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:38:34,551-logger.py]-INFO:登录是否成功：True
+[2020-04-28 17:40:21,432-logger.py]-INFO:手机号码:13275114500
+[2020-04-28 17:41:44,828-logger.py]-INFO:手机号码:15770703551
+[2020-04-28 17:41:45,114-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,158-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,160-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,162-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,204-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,239-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,241-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,242-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,285-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,316-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,317-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,318-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,360-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,390-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,391-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,393-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,432-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,460-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,461-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:41:45,461-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,462-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,489-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,490-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,490-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,491-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,519-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,520-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,520-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,521-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,551-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,552-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,553-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,554-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,583-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,584-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,584-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,585-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,613-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,613-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,614-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,615-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,645-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,646-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,646-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,647-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,675-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,677-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,678-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,680-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,710-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,711-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,712-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,712-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,740-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,741-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,741-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,743-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,771-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,772-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,772-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,773-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,802-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,802-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:41:45,803-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,804-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,834-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,834-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,835-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,835-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,863-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,863-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:41:45,864-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,865-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,894-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,895-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,895-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,896-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,924-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,925-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,926-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,927-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,957-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,957-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,959-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:41:45,961-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:41:45,991-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,993-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:41:45,994-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:05,379-logger.py]-INFO:手机号码:15847778603
+[2020-04-28 17:44:05,663-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:05,698-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:05,699-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:05,700-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:05,742-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:05,774-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,774-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,775-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:05,815-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:05,848-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,850-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,851-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:05,896-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:05,928-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,929-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:05,930-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:05,971-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,000-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:06,001-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:44:06,002-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,003-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,031-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,032-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,033-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,034-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,062-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,063-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,063-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,064-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,094-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,094-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,095-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,096-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,123-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,124-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,125-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,126-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,155-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,156-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,156-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,157-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,183-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,184-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,184-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,185-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,212-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,213-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,213-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,214-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,240-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,241-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,241-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,242-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,271-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,272-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,272-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,273-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,303-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,304-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,305-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,306-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,334-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,334-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:44:06,335-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,337-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,366-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,366-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,367-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,367-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,395-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,396-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:44:06,396-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,397-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,425-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,426-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,426-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,427-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,456-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,457-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,458-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,458-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,489-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,490-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,491-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:44:06,493-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:44:06,526-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,527-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:44:06,528-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:09,435-logger.py]-INFO:手机号码:13691494853
+[2020-04-28 17:46:09,669-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:09,865-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': 'ef8ed4c4401344f0b1b141460a8472dd', 'user': {'id': 1900, 'melotUserId': None, 'mobile': '13691494853', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:46:09,867-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': 'ef8ed4c4401344f0b1b141460a8472dd', 'user': {'id': 1900, 'melotUserId': None, 'mobile': '13691494853', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:46:09,868-logger.py]-INFO:登录是否成功：True
+[2020-04-28 17:46:10,093-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,122-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,123-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,126-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,127-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,160-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,161-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,162-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,163-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,191-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,192-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,193-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,194-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,222-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,223-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,224-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,224-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,253-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,254-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,254-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,255-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,285-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,285-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,286-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,287-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,315-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,315-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,316-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,317-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,348-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,348-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,349-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,350-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,381-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,381-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,382-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,383-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,410-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,411-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,412-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,413-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,439-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,440-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:46:10,440-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,441-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,469-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,469-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,470-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,471-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,499-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,500-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:46:10,500-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,501-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,533-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,533-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,534-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,535-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,565-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,566-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,566-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,567-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,597-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,598-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,599-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:46:10,599-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:46:10,630-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,631-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:46:10,632-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:16,724-logger.py]-INFO:手机号码:15030208054
+[2020-04-28 17:51:17,054-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,118-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,157-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,159-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,160-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,206-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,243-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,245-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,247-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,286-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,320-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,321-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,323-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,368-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,399-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,401-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,402-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,449-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,480-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,481-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:51:17,482-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,482-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,510-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,511-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,511-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,512-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,541-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,541-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,542-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,543-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,573-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,574-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,575-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,576-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,605-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,606-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,607-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,608-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,637-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,639-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,641-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,642-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,673-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,674-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,675-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,676-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,704-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,705-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,705-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,706-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,736-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,737-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,738-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,739-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,770-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,770-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,771-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,772-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,802-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,803-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,804-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,806-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,836-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,837-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:51:17,839-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,840-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,867-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,868-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,869-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,870-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,901-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,902-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:51:17,903-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,904-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,931-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,932-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,933-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,934-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,965-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,966-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,966-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,967-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:17,996-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,997-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:17,997-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:51:17,998-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:51:18,027-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:18,028-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:51:18,029-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:37,512-logger.py]-INFO:手机号码:15099374116
+[2020-04-28 17:53:37,713-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:37,900-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': '001ee10ea5884b7db69d16da7ef84ebd', 'user': {'id': 1901, 'melotUserId': None, 'mobile': '15099374116', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:53:37,902-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': '001ee10ea5884b7db69d16da7ef84ebd', 'user': {'id': 1901, 'melotUserId': None, 'mobile': '15099374116', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:53:37,904-logger.py]-INFO:登录是否成功：True
+[2020-04-28 17:53:38,117-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,146-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,148-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,149-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,150-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,183-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,184-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,185-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,186-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,218-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,219-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,220-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,222-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,252-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,253-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,254-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,254-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,284-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,285-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,285-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,286-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,315-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,316-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,317-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,317-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,348-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,349-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,349-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,350-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,379-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,380-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,381-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,382-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,410-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,411-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,411-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,412-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,440-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,440-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,441-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,442-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,470-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,470-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:53:38,471-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,472-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,500-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,500-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,501-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,502-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,530-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,531-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:53:38,532-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,532-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,562-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,562-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,563-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,564-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,593-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,593-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,594-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,595-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,625-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,626-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,627-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:53:38,627-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:53:38,654-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,654-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:53:38,655-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:55:20,611-logger.py]-INFO:手机号码:13034977386
+[2020-04-28 17:55:20,795-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:55:20,831-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:55:20,833-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:55:20,834-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:55:20,884-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:55:20,922-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:20,923-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:20,925-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:55:20,969-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:55:21,002-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,004-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,006-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:55:21,052-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:55:21,085-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,086-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,088-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:55:21,137-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:55:21,166-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,167-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:55:21,168-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:02,926-logger.py]-INFO:手机号码:1882435363
+[2020-04-28 17:56:03,375-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,405-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,406-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,407-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,408-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,438-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,439-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,439-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,440-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,472-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,473-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,473-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,474-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,502-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,503-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,504-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,504-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,542-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,542-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,543-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,543-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,570-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,570-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,571-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,572-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,599-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,600-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,601-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,601-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,631-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,632-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,633-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,634-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,661-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,663-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,663-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,664-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,691-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,692-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,693-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,694-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,721-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,721-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:03,722-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,723-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,751-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,751-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,752-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,752-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,778-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,779-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:03,780-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,780-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,807-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,808-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,809-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,809-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,841-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,842-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,843-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,843-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,873-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,874-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,875-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:03,875-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:03,909-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,910-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:03,911-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:41,833-logger.py]-INFO:手机号码:18710453952
+[2020-04-28 17:56:42,043-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,075-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,077-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,078-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,119-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,153-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,154-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,155-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,197-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,228-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,229-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,230-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,268-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,296-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,297-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,298-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,334-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,365-logger.py]-DEBUG:{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,365-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31002, 'message': '验证码不正确，不允许登录'}, 'data': None}
+[2020-04-28 17:56:42,366-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,366-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,392-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,393-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,393-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,394-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,423-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,424-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,424-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,425-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,451-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,451-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,452-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,453-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,480-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,480-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,481-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,481-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,511-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,512-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,513-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,514-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,544-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,545-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,545-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,546-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,576-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,577-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,577-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,578-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,605-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,606-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,607-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,607-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,638-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,638-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,639-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,640-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,670-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,671-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,672-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,674-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,703-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,704-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:56:42,705-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,706-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,738-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,739-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,740-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,742-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,775-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,776-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:56:42,776-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,777-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,812-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,812-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,813-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,814-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,844-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,845-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,846-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,846-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,874-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,875-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,876-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:56:42,877-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:56:42,908-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,909-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:56:42,910-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:11,941-logger.py]-INFO:手机号码:15844459971
+[2020-04-28 17:57:12,138-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,324-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': '0d0d9c42269f469291c9ac892999b061', 'user': {'id': 1902, 'melotUserId': None, 'mobile': '15844459971', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:57:12,326-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': '0d0d9c42269f469291c9ac892999b061', 'user': {'id': 1902, 'melotUserId': None, 'mobile': '15844459971', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:57:12,327-logger.py]-INFO:登录是否成功：True
+[2020-04-28 17:57:12,546-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,574-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,575-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,576-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,578-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,608-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,609-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,610-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,611-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,644-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,645-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,646-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,647-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,679-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,681-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,682-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,683-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,718-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,719-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,720-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,721-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,753-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,754-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,755-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,756-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,789-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,790-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,791-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,792-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,826-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,827-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:12,828-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,830-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,861-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,862-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,862-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,863-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,893-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,894-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,895-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,896-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,925-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,926-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:12,926-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,927-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,956-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,958-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,960-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,961-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:12,994-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,995-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:12,996-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:12,997-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:13,027-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,028-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,028-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:13,029-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:13,062-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,063-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,063-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:13,064-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:13,092-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,093-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,094-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:13,095-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:13,131-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,133-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:13,134-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:53,605-logger.py]-INFO:手机号码:13761972942
+[2020-04-28 17:57:53,812-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:53,993-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': 'f3e9bf97dc2d457dafddb2c3d24ee197', 'user': {'id': 1903, 'melotUserId': None, 'mobile': '13761972942', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:57:53,994-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': 'f3e9bf97dc2d457dafddb2c3d24ee197', 'user': {'id': 1903, 'melotUserId': None, 'mobile': '13761972942', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 17:57:53,995-logger.py]-INFO:登录是否成功：True
+[2020-04-28 17:57:54,193-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,221-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,221-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,222-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,222-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,258-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,259-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,263-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,264-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,293-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,294-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,295-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,296-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,326-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,327-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,328-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,329-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,360-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,360-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,361-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,362-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,391-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,392-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,392-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,393-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,423-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,424-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,425-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,425-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,452-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,453-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,453-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,454-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,481-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,482-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,483-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,484-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,511-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,512-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,513-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,514-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,543-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,544-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 17:57:54,544-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,545-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,573-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,574-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,575-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,575-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,603-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,604-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 17:57:54,604-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,605-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,634-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,635-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,635-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,636-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,665-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,665-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,666-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,667-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,697-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,698-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,699-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:57:54,699-logger.py]-INFO:---------开始测试----------
+[2020-04-28 17:57:54,731-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,732-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 17:57:54,732-logger.py]-INFO:登录是否成功：False
+[2020-04-28 17:59:59,841-logger.py]-INFO:手机号码:13521207665
+[2020-04-28 18:00:00,052-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,243-logger.py]-DEBUG:{'success': True, 'error': None, 'data': {'token': '288a397436eb458795892a900be0025b', 'user': {'id': 1904, 'melotUserId': None, 'mobile': '13521207665', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 18:00:00,244-logger.py]-INFO:登录结果：{'success': True, 'error': None, 'data': {'token': '288a397436eb458795892a900be0025b', 'user': {'id': 1904, 'melotUserId': None, 'mobile': '13521207665', 'studentName': None, 'gender': -1, 'birthday': None, 'diamonds': 0, 'hasCompleteInfo': 0, 'mvps': 0, 'headPortraitUrl': None, 'courseList': []}}}
+[2020-04-28 18:00:00,245-logger.py]-INFO:登录是否成功：True
+[2020-04-28 18:00:00,287-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,313-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,313-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,314-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,315-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,341-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,342-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,343-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,343-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,373-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,374-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,375-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,375-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,403-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,404-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,405-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,406-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,434-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,434-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,435-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,436-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,465-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,466-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,466-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,467-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,495-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,496-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,496-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,497-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,523-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,524-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,525-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,525-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,555-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,556-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,556-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,557-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,587-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,588-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,588-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,589-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,615-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,616-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项'}, 'data': None}
+[2020-04-28 18:00:00,616-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,617-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,646-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,647-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '手机号是必填项;验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,647-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,648-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,675-logger.py]-DEBUG:{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,676-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 20001, 'message': '验证码是必填项'}, 'data': None}
+[2020-04-28 18:00:00,677-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,678-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,707-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,707-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,708-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,708-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,736-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,737-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,738-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,739-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,769-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,770-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,771-logger.py]-INFO:登录是否成功：False
+[2020-04-28 18:00:00,772-logger.py]-INFO:---------开始测试----------
+[2020-04-28 18:00:00,805-logger.py]-DEBUG:{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,806-logger.py]-INFO:登录结果：{'success': False, 'error': {'code': 31001, 'message': '未找到该手机号的验证码'}, 'data': None}
+[2020-04-28 18:00:00,807-logger.py]-INFO:登录是否成功：False
