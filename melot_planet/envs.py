@@ -13,10 +13,12 @@ class Env:
 
 
 class QA(Env):
-    http_base_url = "http://10.4.4.140:10099"
+    # # http_base_url = "http://10.4.4.140:10099"
+    http_base_url = "http://10.4.4.140:8905"
     redis_host = "10.4.4.176"
     pg_host = "10.4.4.219"
     pg_port = 5432
+
 
 
 

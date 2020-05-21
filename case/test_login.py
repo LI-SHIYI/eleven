@@ -5,6 +5,7 @@ from case.mp_login import Login
 from common.logger import Log
 from common import envs
 from parameterized import parameterized, param
+import pytest
 
 
 class Test_Login(unittest.TestCase):
@@ -90,8 +91,11 @@ class Test_Login(unittest.TestCase):
         :param _code:
         :return:
         """
-        mobile = self.L.get_phone_number()
-        _code = self.L.Verif_code(mobile)  # 获取验证码
+        # mobile = self.L.get_phone_number()
+        mobile = 13048052194
+        set_code = self.L.Verif_code(mobile)  # 获取验证码
+        print(set_code)
+        _code = self.L.get_code(mobile)
         print(mobile)
         self.log.info("---------开始测试----------")
         result = self.L.login(mobile, _code)
@@ -147,4 +151,5 @@ class Test_Login(unittest.TestCase):
 if __name__ == "__main__":
     # a = Test_Login()
     # a.test_login()
-    unittest.main()
+    # unittest.main()
+    pytest.main(["-v", "test_login.py::Test_Login::test_login_01"])

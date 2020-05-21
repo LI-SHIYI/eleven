@@ -96,7 +96,7 @@ class Endpoint:
             "c": "1",
             "a": "1",  # app:a=1 p=3 c=1   小程序：channel: 40107,appId: 9,platform: 1,
             "p": "3",
-            "v": "v0.01",
+            "v": "1.0.0",
             # "a": "RESERVED",
             "t": "%d" % int(time.time() * 1000),
         }

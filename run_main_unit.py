@@ -7,6 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import smtplib
 from config import readConfig
+import pytest_html
 
 cur_path = os.path.dirname(os.path.realpath(__file__))
 

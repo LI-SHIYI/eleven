@@ -7,7 +7,7 @@ from common import envs
 from common.logger import Log
 from common.db_operation import DataLoader
 import random
-
+import pytest
 
 class Login:
 
@@ -36,7 +36,7 @@ class Login:
 
     def Verif_code(self, mobile):
         """
-        获取验证码
+        发送验证码
         :param mobile: 手机号码
         :return:
         """
@@ -58,6 +58,15 @@ class Login:
         #     password=self.env.redis_cridential,
         #     db=self.env.redis_db
         # )
+        return resp_json
+
+
+    def get_code(self,mobile):
+        """
+        获取验证码
+        :param mobile:
+        :return:
+        """
         _redis = self.data_oper.redis_conn
 
         _code = _redis.get("planet:auth:sms:lock::1_3_1_1_%s" % mobile)
@@ -68,7 +77,8 @@ class Login:
 
         print(_code)
         # self.log.debug("SMS: " + _code)
-        return resp_json
+        return _code
+
 
     def login(self, mobile, _code):
         """
@@ -87,10 +97,11 @@ class Login:
         params = {
             "mobile": mobile,
             "verifyCode": _code,
-            # "identifier": '5b4cb2be'
+            "identifier":"6628653bea28fba7e1de26381976d9f9a98e5c9270bfc3cd4be720fb3dc95ba4"
             # "channelId": channelId,
             # "recommendAcctId": recommendAcctId
         }
+        print (params["mobile"],params["verifyCode"])
         headers = self.endpoint.http_headers(params)
         resp = requests.post(url=url, json=params, headers=headers).content
         resp_json = json.loads(resp)
@@ -100,5 +111,5 @@ class Login:
 
 if __name__ == "__main__":
     a = Login(envs.QA)
-    c = a.Verif_code(13048052191)
-    print(c)
+    c = a.Verif_code(13048052195)
+    a.login(13048052195,c)
