@@ -151,5 +151,5 @@ class Test_Login(unittest.TestCase):
 if __name__ == "__main__":
     # a = Test_Login()
     # a.test_login()
-    # unittest.main()
-    pytest.main(["-v", "test_login.py::Test_Login::test_login_01"])
+    unittest.main()
+    # pytest.main(["-v", "test_login.py::Test_Login::test_login_01"])

@@ -7,14 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cc1fc71-6b0f-493d-bb28-2d5ec398fcbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run_main_py.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/mp_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/mp_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/ServiceUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/ServiceUtil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/envs.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/envs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/melot_planet/envs.py" beforeDir="false" afterPath="$PROJECT_DIR$/melot_planet/envs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_main_unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_main_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_main_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_main_unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_main_unit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,16 +24,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="97" column="39" lean-forward="true" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
+            <state relative-caret-position="519">
+              <caret line="153" selection-start-line="153" selection-end-line="153" selection-end-column="19" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
                 <element signature="e#288#417#0" />
                 <element signature="e#451#557#0" />
                 <element signature="e#609#699#0" />
                 <element signature="e#754#845#0" />
-                <element signature="e#899#2243#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_main_unit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1873">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lib/site-packages/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -44,10 +61,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/mp_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1473">
-              <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <state relative-caret-position="1081">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#17#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/test_getcode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+            <state relative-caret-position="782">
+              <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
               </folding>
@@ -65,13 +94,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_main_py.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="138">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/ServiceUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2116">
+              <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
               <folding>
-                <element signature="e#15#28#0" expanded="true" />
+                <element signature="e#224#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,7 +158,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/melot_planet/env.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/melot_planet/scratch_98.py" />
         <option value="$PROJECT_DIR$/melot_planet/mp_v101.py" />
         <option value="$PROJECT_DIR$/melot_planet/test.py" />
@@ -135,12 +181,14 @@
         <option value="$PROJECT_DIR$/pyT.py" />
         <option value="$PROJECT_DIR$/case/test_getcode.py" />
         <option value="$PROJECT_DIR$/run_main.py" />
-        <option value="$PROJECT_DIR$/run_main_py.py" />
         <option value="$PROJECT_DIR$/melot_planet/envs.py" />
         <option value="$PROJECT_DIR$/common/envs.py" />
         <option value="$PROJECT_DIR$/common/ServiceUtil.py" />
-        <option value="$PROJECT_DIR$/case/test_login.py" />
         <option value="$PROJECT_DIR$/case/mp_login.py" />
+        <option value="$PROJECT_DIR$/run_main_py.py" />
+        <option value="$PROJECT_DIR$/run_main_unit.py" />
+        <option value="$PROJECT_DIR$/case/test_login.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -156,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,6 +235,12 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="melot_planet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,26 +253,52 @@
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lib/site-packages" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\untitled\case" />
-      <recent name="E:\untitled\common" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\untitled\pytest" />
+      <recent name="E:\untitled\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\untitled\Lib\site-packages" />
+      <recent name="E:\untitled\case" />
       <recent name="E:\untitled\common" />
     </key>
   </component>
@@ -233,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_getcode">
+  <component name="RunManager" selected="Python.run_main_unit">
     <configuration name="mp_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,6 +378,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="run_main_unit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main_unit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_getcode" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,9 +447,11 @@
       <item itemvalue="Python.test_login" />
       <item itemvalue="Python.run_main_py" />
       <item itemvalue="Python.mp_login" />
+      <item itemvalue="Python.run_main_unit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_main_unit" />
         <item itemvalue="Python.test_login" />
         <item itemvalue="Python.mp_login" />
         <item itemvalue="Python.run_main_py" />
@@ -366,6 +470,42 @@
       <option name="presentableId" value="Default" />
       <updated>1571204272691</updated>
     </task>
+    <task id="LOCAL-00001" summary="python">
+      <created>1590047937912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590047937913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python">
+      <created>1590048067099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590048067099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="python">
+      <created>1590118328128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590118328128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="htmltestrunner">
+      <created>1590126483228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590126483228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="htmltestrunner">
+      <created>1590129932197</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590129932197</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -411,21 +551,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="104" y="18" width="1819" height="1022" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120718695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120718695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49818513" weight="0.32575756" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8221416" weight="0.15298088" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8221416" visible="true" weight="0.15298088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.037444934" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295838" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.7364865" weight="0.16422947" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2635135" side_tool="true" weight="0.35730338" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.32247192" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49947312" weight="0.19685039" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -485,10 +626,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python" />
-    <option name="LAST_COMMIT_MESSAGE" value="python" />
+    <MESSAGE value="htmltestrunner" />
+    <option name="LAST_COMMIT_MESSAGE" value="htmltestrunner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,16 +778,6 @@
     <entry file="file://$PROJECT_DIR$/case/test_Homework_stu.py" />
     <entry file="file://$PROJECT_DIR$/report/2020_03_17_16_46_02result.html" />
     <entry file="file://$PROJECT_DIR$/case/mp_v110.py" />
-    <entry file="file://$PROJECT_DIR$/common/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#17#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/conf.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -723,23 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_main_unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pytest/pyT_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -774,9 +903,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/case/mp_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#17#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_getcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/ServiceUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="2116">
           <caret line="98" column="18" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
           <folding>
             <element signature="e#224#238#0" expanded="true" />
@@ -784,48 +943,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main_unit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1873">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/case/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="97" column="39" lean-forward="true" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
+        <state relative-caret-position="519">
+          <caret line="153" selection-start-line="153" selection-end-line="153" selection-end-column="19" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#288#417#0" />
             <element signature="e#451#557#0" />
             <element signature="e#609#699#0" />
             <element signature="e#754#845#0" />
-            <element signature="e#899#2243#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/mp_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1473">
-          <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_getcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding>
-            <element signature="e#16#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run_main_py.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#15#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="138">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
