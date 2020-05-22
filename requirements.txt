@@ -3,3 +3,4 @@ requests
 psycopg2
 bcrypt
 pytest
+pytest_html
