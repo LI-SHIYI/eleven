@@ -4,7 +4,7 @@ import unittest
 from common import envs
 from common.logger import Log
 from case.mp_login import Login
-from parameterized import parameterized, param
+from parameterized import parameterized
 
 
 class Getcode(unittest.TestCase):

@@ -48,16 +48,11 @@ class Login:
         }
         headers = self.endpoint.http_headers(params)
         resp = requests.get(url=url, params=params, headers=headers).content
+        # print(type(resp))
         resp_json = json.loads(resp)
-        # self.log.debug("SMS: ",resp_json)
-        print(resp_json)
+        # print(type(resp_json))
+        self.log.debug("SMS: "+str(resp_json))
 
-        # _redis = redis.Redis(
-        #     host=self.env.redis_host,
-        #     port=self.env.redis_port,
-        #     password=self.env.redis_cridential,
-        #     db=self.env.redis_db
-        # )
         return resp_json
 
 
@@ -69,15 +64,15 @@ class Login:
         """
         _redis = self.data_oper.redis_conn
 
-        _code = _redis.get("planet:auth:sms:lock::1_3_1_1_%s" % mobile)
-        if _code:
-            _code = _code.decode('utf8')[1:-1]
+        code = _redis.get("planet:auth:sms:lock::1_3_1_1_%s" % mobile)
+        if code:
+            _code = code.decode('utf8')[1:-1]
+            print(_code)
+            return _code
         else:
-            _code = None
+            self.Verif_code(mobile)
+            self.get_code(mobile)
 
-        print(_code)
-        # self.log.debug("SMS: " + _code)
-        return _code
 
 
     def login(self, mobile, _code):
@@ -89,9 +84,7 @@ class Login:
         :param recommendAcctId: 转介绍人ID
         :return: 
         """
-        # mobile = self.get_phone_number()
 
-        # _code = self.Verif_code(mobile)  # 获取验证码
 
         url = "%s/mp-business/public/acl/student/mobile/login" % self.env.http_base_url
         params = {
@@ -104,12 +97,22 @@ class Login:
         print (params["mobile"],params["verifyCode"])
         headers = self.endpoint.http_headers(params)
         resp = requests.post(url=url, json=params, headers=headers).content
+        # resp = resp.decode('utf-8')
         resp_json = json.loads(resp)
         self.log.debug(resp_json)
+        print(resp_json)
+        # data = resp['data']
+        if resp_json["success"]:
+            self.endpoint.uid = resp_json['data']['user']['id']
+            self.endpoint.http_token = resp_json['data']['token']
+            headers = self.endpoint.http_headers(params)
+            self.log.debug(headers)
+        else:
+            self.log.error("登录错误"+resp)
         return resp_json
 
 
 if __name__ == "__main__":
     a = Login(envs.QA)
-    c = a.Verif_code(13048052195)
-    a.login(13048052195,c)
+    w = a.get_code(13048052194)
+    a.login(13048052194,w)

@@ -7,12 +7,13 @@
 #   cnjowang@gmail.com    #
 # ----------------------- #
 import hashlib
-# import json
+import json
 import logging
 import time
-# import urllib.parse
-# import redis
+import urllib.parse
+import redis
 import requests
+from melot_planet import envs
 
 logging.getLogger("requests").setLevel(logging.WARN)
 
@@ -92,10 +93,10 @@ class Endpoint:
 
     def http_headers(self, data):
         headers = {
-            "c": "40107",
-            "a": "9",  # app:a=1 p=3 c=1   小程序：channel: 40107,appId: 9,platform: 1,
-            "p": "1",
-            "v": "v0.01",
+            "c": "1",
+            "a": "1",  # app:a=1 p=3 c=1   小程序：channel: 40107,appId: 9,platform: 1,
+            "p": "3",
+            "v": "1.0",
             # "a": "RESERVED",
             "t": "%d" % int(time.time() * 1000),
         }
@@ -107,58 +108,62 @@ class Endpoint:
         headers['s'] = ServiceUtil.sign(headers, data)
         return headers
 
-    # def Verif_code(self, identity):
-    #     """
-    #     获取验证码
-    #     :param identity: 手机号码
-    #     :return:
-    #     """
-    #     url = "http://10.4.4.140:10099/mp-business/public/acl/student/sms"
-    #     data = {
-    #         "mobile": identity,
-    #         "smsType": 1
-    #     }
-    #     headers = self.http_headers(data)
-    #     resp = self.http_session.get(url + "?" + urllib.parse.urlencode(data), headers=headers)
-    #     logger.debug("SMS: " + resp.text)
-    #
-    #     _redis = redis.Redis(
-    #         host=self.env.redis_host,
-    #         port=self.env.redis_port,
-    #         password=self.env.redis_cridential,
-    #         db=self.env.redis_db
-    #         )
-    #     _code = _redis.get("planet:auth:sms::1_3_1_1_%s" % identity)
-    #     _code = _code.decode('utf8')[1:-1]
-    #     print(_code)
-    #     return _code
-    #
-    # def login(self, identity):
-    #     """
-    #     登录
-    #     :param identity:
-    #     :return:
-    #     """
-    #     _code = self.Verif_code(identity)
-    #     url = "http://10.4.4.140:10099/mp-business/public/acl/student/mobile/login"
-    #     data = {
-    #         "mobile": identity,
-    #         "verifyCode": _code
-    #     }
-    #     headers = self.http_headers(data)
-    #     # print(headers)
-    #     # print(data)
-    #     resp = self.http_session.post(url, headers=headers, json=data)
-    #     logger.debug("LOGIN: " + resp.text)
-    #     resp_json = json.loads(resp.text)
-    #     if resp_json['success']:
-    #         self.uid = resp_json['data']['user']['id']
-    #         self.http_token = resp_json['data']['token']
-    #     else:
-    #         logger.error(resp.text)
-    #         raise LoginError('Failed login for student %s' % identity)
+    def Verif_code(self, identity):
+        """
+        获取验证码
+        :param identity: 手机号码
+        :return:
+        """
+        url = "http://10.4.4.140:10099/mp-business/public/acl/student/sms"
+        data = {
+            "mobile": identity,
+            "smsType": 1
+        }
+        headers = self.http_headers(data)
+        resp = self.http_session.get(url + "?" + urllib.parse.urlencode(data), headers=headers)
+        logger.debug("SMS: " + resp.text)
+
+        _redis = redis.Redis(
+            host=self.env.redis_host,
+            port=self.env.redis_port,
+            password=self.env.redis_cridential,
+            db=self.env.redis_db
+            )
+        _code = _redis.get("planet:auth:sms::1_3_1_1_%s" % identity)
+        if _code:
+            _code = _code.decode('utf8')[1:-1]
+            print(_code)
+            return _code
+        else:
+            pass
+
+    def login(self, identity):
+        """
+        登录
+        :param identity:
+        :return:
+        """
+        _code = self.Verif_code(identity)
+        url = "http://10.4.4.140:10099/mp-business/public/acl/student/mobile/login"
+        data = {
+            "mobile": identity,
+            "verifyCode": _code
+        }
+        headers = self.http_headers(data)
+        # print(headers)
+        # print(data)
+        resp = self.http_session.post(url, headers=headers, json=data)
+        logger.debug("LOGIN: " + resp.text)
+        resp_json = json.loads(resp.text)
+        if resp_json['success']:
+            self.uid = resp_json['data']['user']['id']
+            self.http_token = resp_json['data']['token']
+            logger.debug(headers)
+        else:
+            logger.error(resp.text)
+            raise LoginError('Failed login for student %s' % identity)
 
 
-# if __name__ == "__main__":
-#     test_case = Endpoint(envs.QA)
-#     test_case.login(13048050000)
+if __name__ == "__main__":
+    test_case = Endpoint(envs.QA)
+    test_case.login(13048050000)
